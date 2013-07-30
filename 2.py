@@ -15,7 +15,7 @@ for x in fib:
 	if x%2==0:
 		new_fib.append(x)
 	
-print sum (new_fib)
+print gisum (new_fib)
 
 
 		
